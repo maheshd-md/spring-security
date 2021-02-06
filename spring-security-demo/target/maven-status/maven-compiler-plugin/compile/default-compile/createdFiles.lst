@@ -1,0 +1,6 @@
+com/example/springsecuritydemo/MyUser.class
+com/example/springsecuritydemo/MyWebSecurityConfigurerAdapter.class
+com/example/springsecuritydemo/UserController.class
+com/example/springsecuritydemo/SpringSecurityDemoApplication.class
+com/example/springsecuritydemo/UserService.class
+com/example/springsecuritydemo/UserRepository.class

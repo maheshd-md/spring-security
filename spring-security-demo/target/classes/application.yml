@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: spring-security-demo
+  datasource:
+    driverClassName: org.postgresql.Driver
+    platform: org.hibernate.dialect.PostgreSQLDialect
+    url: jdbc:postgresql://localhost:5432/spring_security_demo
+    username: postgres
+    password: postgres
+    
+  
+  jpa:
+    hibernate:
+      ddl-auto: update  
+    
+server:
+  port: 8080
+  
